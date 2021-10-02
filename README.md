@@ -1,1 +1,0 @@
-# solminerpoly.github.io
