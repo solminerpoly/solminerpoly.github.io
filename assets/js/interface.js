@@ -2,8 +2,8 @@
 // var minersAddr = '0xfc4f0eD0972e3f635c231f8e9DB10b47AF10b74A';
 // var tokenAddr = '0x78867bbeef44f2326bf8ddd1941a4439382ef2a7';
 
-var minersAddr = '0xd6666E263EFAAaD2bBC8fC3daf58E650D05b5066';
-var tokenAddr = '0x2486e9554356752389cd1F66B7430C01f5565471';
+var minersAddr = '0x9ea45f625d38f7757177eef583b507f1075b7b78';
+var tokenAddr = '0x7dff46370e9ea5f0bad3c4e29711ad50062ea7a4';
 var minersAbi =
 [
 	{
